@@ -6,8 +6,8 @@ import java.math.BigDecimal;
 import java.time.Duration;
 import java.time.LocalDateTime;
 
-import static br.edu.ifpb.padroes.Estacionamento.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static br.edu.ifpb.padroes.CalculadoraTotal.*;
 
 public class EstacionamentoTest {
 
